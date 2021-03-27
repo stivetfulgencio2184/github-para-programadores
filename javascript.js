@@ -1,1 +1,1 @@
-alert("Hola mundo de programadores");
+alert("This file was edited.");
